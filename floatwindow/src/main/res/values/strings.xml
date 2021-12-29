@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="overlays_permission">你已禁止授予%s 显示悬浮窗 权限，可能会造成功能不可用，如需使用请到设置里授予权限</string>
+    <string name="overlays_permission_no">禁止</string>
+    <string name="overlays_permission_yes">授予</string>
+
+</resources>
